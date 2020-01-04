@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/hercules/static/js/main.7544d178.chunk.js",
+    "main.js.map": "/hercules/static/js/main.7544d178.chunk.js.map",
+    "runtime~main.js": "/hercules/static/js/runtime~main.96b63ada.js",
+    "runtime~main.js.map": "/hercules/static/js/runtime~main.96b63ada.js.map",
+    "static/js/2.d931fc9a.chunk.js": "/hercules/static/js/2.d931fc9a.chunk.js",
+    "static/js/2.d931fc9a.chunk.js.map": "/hercules/static/js/2.d931fc9a.chunk.js.map",
+    "index.html": "/hercules/index.html",
+    "precache-manifest.fa1358dc0a42085ad84a667ee6646849.js": "/hercules/precache-manifest.fa1358dc0a42085ad84a667ee6646849.js",
+    "service-worker.js": "/hercules/service-worker.js"
+  }
+}
